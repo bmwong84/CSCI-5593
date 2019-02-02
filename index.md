@@ -2,4 +2,6 @@
 
 [Test readme](https://github.com/bmwong84/CSCI-5593/blob/master/readme.txt)
 
-## Other things
+## Literature Reports
+
+[Report #1:  February 5, 2019]()
